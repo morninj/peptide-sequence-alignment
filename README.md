@@ -1,6 +1,6 @@
 # Visualize Peptide Alignment
 
-Edit `visualize-peptides.py` to add your filenames. Tnen, run:
+Edit `visualize-peptides.py` to add your filenames. Then, run:
 
     $ python visualize-peptides.py
 
