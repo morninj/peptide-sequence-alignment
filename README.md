@@ -1,8 +1,8 @@
 # Visualize Peptide Alignment
 
-Edit `visualize-peptides.py` to add your filenames. Then, run:
+Run:
 
-    $ python visualize-peptides.py
+    $ python visualize-peptides.py --full polypeptide.txt --part peptides.txt
 
 The output will look like this:
 
